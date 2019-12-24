@@ -1,2 +1,2 @@
-pub mod http;
+mod http;
 pub use http::BlockHttp;
