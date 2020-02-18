@@ -5,6 +5,7 @@ use url::Url;
 use ureq::Response;
 
 pub mod core;
+pub mod model;
 pub mod account;
 pub mod block;
 pub mod transaction;
