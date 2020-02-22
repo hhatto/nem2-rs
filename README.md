@@ -8,7 +8,7 @@
 nem2 = { git = "https://github.com/hhatto/nem2-rs" }
 ```
 
-```
+```rust
 use nem2::block;
 
 fn main() {
