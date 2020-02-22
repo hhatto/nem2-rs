@@ -1,4 +1,4 @@
-# nem2-rs
+# nem2-rs ![Rust](https://github.com/hhatto/nem2-rs/workflows/Rust/badge.svg)
 [NEM Catapult (NEM2)](https://nem.io/catapult/) Client for [Rust](https://www.rust-lang.org/)
 
 *This crate is highly under development.*
